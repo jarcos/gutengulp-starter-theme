@@ -1,4 +1,4 @@
-Thank you for thinking about contributing to the Gutenberg Starter Theme!
+Thank you for thinking about contributing to the Gutengulp Starter Theme!
 
 All contributions are welcome, the only requirements are:
 

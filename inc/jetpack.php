@@ -4,7 +4,7 @@
  *
  * @link https://jetpack.com/
  *
- * @package gutenberg-starter-theme
+ * @package gutengulp-starter-theme
  */
 
 /**
@@ -28,7 +28,7 @@ function gutenberg_starter_theme_jetpack_setup() {
 	// Add theme support for Content Options.
 	add_theme_support( 'jetpack-content-options', array(
 		'post-details' => array(
-			'stylesheet' => 'gutenberg-starter-theme-style',
+			'stylesheet' => 'gutengulp-starter-theme-style',
 			'date'       => '.posted-on',
 			'categories' => '.cat-links',
 			'tags'       => '.tags-links',
